@@ -1,0 +1,11 @@
+{
+  "name": "node-excise-project",
+  "version": "1.0.0",
+  "description": "node 硬实战中例子练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liing0726",
+  "license": "ISC"
+}
