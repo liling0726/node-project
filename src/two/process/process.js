@@ -14,6 +14,7 @@ function readFile(file){
 }
 
 if(process.argv.length>0){
+    console.log(process.argv)
     process.argv.forEach(function(arg,index){
         if(args[arg]){
             console.log(arg)
