@@ -1,1 +1,1 @@
-process.kill(48199)
+process.kill(91871,'SIGHUP')

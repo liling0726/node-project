@@ -19,4 +19,4 @@ console.log('灰姑娘')
 console.log('白雪公主')
 console.groupEnd() */
 
-console.table([{ a: 1, b: 'Y' }, { a: 'Z', b: 2 }]);
+//console.table([{ a: 1, b: 'Y' }, { a: 'Z', b: 2 }]);
